@@ -1,10 +1,10 @@
 [
   {
     "name": "RME",
-    "distants": {
+    "remote": {
       "latest/stable": "RMEx/RME/master/src",
       "dev": "RMEx/RME/dev/src"
     },
-    "internals" : {}
+    "local" : {}
   }
 ]
